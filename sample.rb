@@ -1,1 +1,2 @@
-msg ~ "Hellow world!"
+msg ~ "Hellow world!
+puts msg"
